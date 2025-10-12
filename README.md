@@ -1,15 +1,25 @@
 # INST326-Team-Project
 
+Project Title and Description
+- Name: CampusDrive 
+- Description: 
 
-## Nathaly Robles - Digital Archives Management System
+Team Member Names and Roles
+- Juliana Nguyen
+- 
+- 
 
-For my part of the project I started with the first five functions that making sure my code aligns with our topic .
+Domain Focus and Problem Statement
+- 
 
-## Functions implemeted
+Installation and Setup Instructions
+- 
 
-1. 'validate_dublin_core_metadata(metadata)'
-2. 'generate_unique_identifier(prefix="DA")'
-3. 'parse_date_formats(date_string)'
-4. 'calculate_file_checksum(file_path, algorithm="sha256")'
-5. 'extract_file_metadata(file_path)'
+Usage Examples for Key Functions
+- 
 
+Function Library Overview and Organization
+- 
+
+Contribution Guidelines for Team Members 
+- 
