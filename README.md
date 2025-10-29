@@ -38,7 +38,7 @@
 
 
 # Contribution Guidelines for Team Members 
-- Juliana = I did the README as well as the examples, and functiosn for the medium and cocanmplex functions. 
+- Juliana = I did the README as well as the examples, and functiosn for the medium and complex functions. 
 
 ## Nathaly Robles - Digital Archives Management System
 
