@@ -12,6 +12,17 @@ from src.library_name import (
     detect_duplicate_files
 )
 
+
+# SIMPLE FUNCTIONS
+
+
+
+
+
+
+
+
+
 # MEDIUM FUNCTIONS
 
 metadata = extract_file_metadata("demo_files/report.pdf")
