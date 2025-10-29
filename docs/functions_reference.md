@@ -1,3 +1,12 @@
+# Simple function references 
+
+
+
+
+
+
+
+
 
 ### extract_file_metadata
 **Purpose:** Extract metadata from a file including name, size, type, extension, folder, and timestamps.
