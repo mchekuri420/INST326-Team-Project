@@ -7,14 +7,14 @@
 # Team Member Names and Roles
 - Juliana Nguyen
 - Manasa Chekuri
-- 
+- Nathaly Robles
 
 # Domain Focus and Problem Statement
 - Our project focuses on Digital Archive Management for schools and large groups. The goal is to improve the organization, storage, and retrieval of digital files such as research papers, media files, scanned documents, and collaborative project resources. By providing a structured and secure way to manage files, our system supports better workflow, reduces time spent searching for documents, and ensures important work is preserved and easily shareable. 
 
 
 # Installation and Setup Instructions
-- ????
+- 
 
 
 # Usage Examples for Key Functions
@@ -42,15 +42,10 @@
 
 ## Nathaly Robles - Digital Archives Management System
 
-For my part of the project I started with the first five functions that making sure my code aligns with our topic .
-
+For my part of the project I did the last 3 simple functions.
 ## Functions implemeted
 
-1. 'validate_dublin_core_metadata(metadata)'
-2. 'generate_unique_identifier(prefix="DA")'
-3. 'parse_date_formats(date_string)'
-4. 'calculate_file_checksum(file_path, algorithm="sha256")'
-5. 'extract_file_metadata(file_path)'
+1. 
 
 ## Manasa Chekuri - Digital Archives Management System
 
