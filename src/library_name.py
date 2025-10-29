@@ -16,7 +16,7 @@ from datetime import datetime
 
 ############ SIMPLE FUNCTIONS (7) ##############
 
-############ SIMPLE FUNCTIONS (7) ##############
+
 
 def count_total_files(archive_records):
     """Return the total number of files in the archive.
