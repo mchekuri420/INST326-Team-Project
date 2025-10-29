@@ -16,8 +16,7 @@ from datetime import datetime
 
 ############ SIMPLE FUNCTIONS (7) ##############
 
-
-
+## hi 
 
 
 
