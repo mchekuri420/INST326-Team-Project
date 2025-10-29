@@ -25,11 +25,6 @@ from datetime import datetime
 
 
 
-
-
-
-
-
 ########### MEDIUM FUNCTIONS (5) ##############
 
 
