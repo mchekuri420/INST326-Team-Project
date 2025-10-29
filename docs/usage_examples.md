@@ -13,8 +13,8 @@ from src.library_name import (
 )
 
 
+# SIMPLE FUNCTIONS
 
-#SMALL FUNCTIONS
 
 
 
